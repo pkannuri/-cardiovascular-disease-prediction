@@ -35,8 +35,7 @@ All of the dataset values were collected at the moment of medical examination.
 
 Cadio Catch Diseases is a company that specializes in detecting heart disease in the early stages. Its business model is service type, that is, the company offers an early diagnosis of cardiovascular disease for a certain price.
  
-Currently, the diagnosis of cardiovascular disease is made manually by a team of specialists. The current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also the fatigue of the team who take turns to minimize the risks. O custo de cada diagnóstico, incluindo os aparelhos e a folha de pagamento dos analistas, gira em torno de $ 1,000.00.
-
+Currently, the diagnosis of cardiovascular disease is made manually by a team of specialists. The current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also the fatigue of the team who take turns to minimize the risks.
 The price of the diagnosis, paid by the client, varies according to the precision achieved by the team of specialists, the client pays R$ 500.00 for every 5% accuracy above 50%. For example, for an accuracy of 55%, the diagnosis costs R$ 500.00 for the client, for an accuracy of 60%, the value is R$ 1000.00 and so on. If the diagnostic accuracy is 50%, the customer does not pay for it.
 
 ### Objective
